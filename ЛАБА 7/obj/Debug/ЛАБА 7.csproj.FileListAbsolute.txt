@@ -1,0 +1,16 @@
+C:\Users\Джо\source\repos\ЛАБА 7\ЛАБА 7\bin\Debug\ЛАБА 7.exe.config
+C:\Users\Джо\source\repos\ЛАБА 7\ЛАБА 7\bin\Debug\ЛАБА 7.exe
+C:\Users\Джо\source\repos\ЛАБА 7\ЛАБА 7\bin\Debug\ЛАБА 7.pdb
+C:\Users\Джо\source\repos\ЛАБА 7\ЛАБА 7\obj\Debug\ЛАБА 7.csproj.AssemblyReference.cache
+C:\Users\Джо\source\repos\ЛАБА 7\ЛАБА 7\obj\Debug\ЛАБА 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Джо\source\repos\ЛАБА 7\ЛАБА 7\obj\Debug\ЛАБА 7.csproj.CoreCompileInputs.cache
+C:\Users\Джо\source\repos\ЛАБА 7\ЛАБА 7\obj\Debug\ЛАБА 7.exe
+C:\Users\Джо\source\repos\ЛАБА 7\ЛАБА 7\obj\Debug\ЛАБА 7.pdb
+C:\Users\Джо\source\repos\ЛАБА 7 ЗАВДАННЯ 1\ЛАБА 7\bin\Debug\ЛАБА 7.exe.config
+C:\Users\Джо\source\repos\ЛАБА 7 ЗАВДАННЯ 1\ЛАБА 7\bin\Debug\ЛАБА 7.exe
+C:\Users\Джо\source\repos\ЛАБА 7 ЗАВДАННЯ 1\ЛАБА 7\bin\Debug\ЛАБА 7.pdb
+C:\Users\Джо\source\repos\ЛАБА 7 ЗАВДАННЯ 1\ЛАБА 7\obj\Debug\ЛАБА 7.csproj.AssemblyReference.cache
+C:\Users\Джо\source\repos\ЛАБА 7 ЗАВДАННЯ 1\ЛАБА 7\obj\Debug\ЛАБА 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Джо\source\repos\ЛАБА 7 ЗАВДАННЯ 1\ЛАБА 7\obj\Debug\ЛАБА 7.csproj.CoreCompileInputs.cache
+C:\Users\Джо\source\repos\ЛАБА 7 ЗАВДАННЯ 1\ЛАБА 7\obj\Debug\ЛАБА 7.exe
+C:\Users\Джо\source\repos\ЛАБА 7 ЗАВДАННЯ 1\ЛАБА 7\obj\Debug\ЛАБА 7.pdb
